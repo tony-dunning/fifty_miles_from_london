@@ -1,0 +1,10 @@
+bin/
+build/
+venv/ 
+*.pyc
+*__pycache__*
+resources/__pycache__/
+tests/__pycache__/
+!**/__pycache__/
+
+
